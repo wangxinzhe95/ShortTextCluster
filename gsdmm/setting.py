@@ -1,0 +1,14 @@
+MYSQL_HOST = '10.3.255.99'
+MYSQL_DBNAME = 'ipom_spider_byr'
+MYSQL_USER = 'ipom_website'
+MYSQL_PASSWD = 'EoZo#6#dW2zT'
+
+VECTOR_MYSQL_HOST = '10.108.41.161'
+VECTOR_MYSQL_DBNAME = 'ipom_analysis_resources'
+VECTOR_MYSQL_USER = 'root'
+VECTOR_MYSQL_PASSWD = '123456'
+
+PREPROCESS = False
+TRAIN = False
+TEST = False
+REAL_PREDICT =False
